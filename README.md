@@ -1,5 +1,5 @@
 # microbiota-stage-1
-R codes and its input of the manuscript. The input includes Table_S1, Table_S6, Table_S9, and Tree_file. If you would like to use the R codes, please cite the two articles:
+R codes and its input of the first article listed below. The input includes Table_S1, Table_S6, Table_S9, and Tree_file. If you would like to use the R codes, please cite the two articles:
 
 Qian, X., Liu, Y., Ye, X. et al. Gut microbiota in children with juvenile idiopathic arthritis: characteristics, biomarker identification, and usefulness in clinical prediction. BMC Genomics. 2020, 21(1):286. doi: 10.1186/s12864-020-6703-0
 
